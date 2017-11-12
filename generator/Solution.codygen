@@ -1,0 +1,9 @@
+codygen:
+  packageId: Codygen.New
+  module: New
+config:
+  packageId: StefanDeVo.MobileNumberCodeGenerator
+  description: Based upon a json of validator code generate csharp code
+  modules:
+  - name: Generator
+    description: Generator

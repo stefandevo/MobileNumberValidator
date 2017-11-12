@@ -1,0 +1,4 @@
+codygen:
+  packageId: StefanDeVo.MobileNumberCodeGenerator
+  module: Generator
+config:

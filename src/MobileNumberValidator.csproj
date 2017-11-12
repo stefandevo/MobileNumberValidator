@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <PackOnBuild>true</PackOnBuild>
+    <PackageId>stefandevo.mobilenumbervalidator</PackageId>
+    <Authors>Stefan de Vogelaere</Authors>
+    <Owners>stefandevo</Owners>
+    <PackageProjectUrl>https://github.com/stefandevo/MobileNumberValidator</PackageProjectUrl>
+    <Summary>An easy mobile number validator for all countries in the world</Summary>
+    <PackageTags>mobilenumber E164</PackageTags>
+    <Title>Mobile Number Validator</Title>
+    <Description>An easy mobile number validator for all countries in the world</Description>
+    <PackageVersion>1.0.0</PackageVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="NuGet.Build.Packaging" Version="0.2.1" />
+  </ItemGroup>
+</Project>

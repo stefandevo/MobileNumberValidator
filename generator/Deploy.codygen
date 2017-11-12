@@ -1,0 +1,5 @@
+﻿codygen:
+  packageId: Deploy
+config:
+  assembly: bin/Debug/netstandard2.0/StefanDeVo.MobileNumberCodeGenerator.dll
+  public: true

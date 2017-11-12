@@ -1,0 +1,16 @@
+﻿Microsoft Visual Studio Solution File, Format Version UNKNOWN
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StefanDeVo.MobileNumberCodeGenerator", "StefanDeVo.MobileNumberCodeGenerator.csproj", "{D8FC4B2E-E3C5-4313-A56A-CC98DE9FB80A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8FC4B2E-E3C5-4313-A56A-CC98DE9FB80A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8FC4B2E-E3C5-4313-A56A-CC98DE9FB80A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8FC4B2E-E3C5-4313-A56A-CC98DE9FB80A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8FC4B2E-E3C5-4313-A56A-CC98DE9FB80A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
